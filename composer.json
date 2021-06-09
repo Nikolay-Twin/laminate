@@ -1,0 +1,16 @@
+{  
+    "name": "yiicustom",
+
+  
+    "require": {
+        "php" : "^5.5 || ^7.0",
+        "ext-mbstring": "*"
+    },
+    
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {"yiicustom\\": ""}
+    }
+
+}
