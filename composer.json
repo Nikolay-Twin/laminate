@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
 
     "autoload": {
-        "psr-4": {"yiicustom\\": ""}
+        "psr-4": {"laminate\\": ""}
     }
 
 }
